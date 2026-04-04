@@ -168,7 +168,6 @@ python test.py
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
 
 [Add your license here]</content>
 <parameter name="filePath">/Users/anish/Desktop/Satish/Practice/Capability Tool Router/README.md

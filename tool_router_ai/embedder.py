@@ -1,7 +1,3 @@
-from openai import AsyncOpenAI
-
-client = AsyncOpenAI()
-
 
 class Embedder:
 
